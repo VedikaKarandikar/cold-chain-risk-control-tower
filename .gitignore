@@ -1,0 +1,17 @@
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+*.bak
+
+# Python/Jupyter temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fabric/runtime generated files
+*.log

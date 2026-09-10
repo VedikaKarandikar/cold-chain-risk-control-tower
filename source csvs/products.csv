@@ -1,0 +1,9 @@
+product_id,product_name,category,min_temp_c,max_temp_c,unit_value_inr,shelf_life_hours
+PRD001,Insulin Pen 3ml,Pharmaceutical,2,8,950,720
+PRD002,mRNA Vaccine Dose,Pharmaceutical,2,8,1800,336
+PRD003,Frozen Plasma Unit,Blood Product,-30,-18,4200,8760
+PRD004,Greek Yogurt 500g,Dairy,2,6,160,240
+PRD005,Fresh Salmon Fillet,Seafood,0,4,1100,96
+PRD006,Probiotic Capsules,Nutraceutical,8,25,620,1440
+PRD007,Frozen Berries 1kg,Frozen Food,-18,-12,380,4320
+PRD008,Cheese Block 1kg,Dairy,2,8,540,720

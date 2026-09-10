@@ -1,0 +1,5 @@
+carrier_id,carrier_name,service_level,baseline_on_time_pct,baseline_temperature_compliance_pct
+CAR001,PolarRoute Logistics,Premium,96.5,98.8
+CAR002,MedTransit India,Premium,94.2,97.1
+CAR003,SwiftCold Freight,Standard,88.7,91.3
+CAR004,National Reefer Network,Standard,90.1,93.6

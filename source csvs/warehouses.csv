@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,city,state,latitude,longitude
+WH001,Mumbai Cold Hub,Mumbai,Maharashtra,19.076,72.877
+WH002,Pune Distribution Centre,Pune,Maharashtra,18.52,73.857
+WH003,Bengaluru Pharma Hub,Bengaluru,Karnataka,12.972,77.595
+WH004,Hyderabad Cold Store,Hyderabad,Telangana,17.385,78.487
+WH005,Chennai Port Cold Store,Chennai,Tamil Nadu,13.083,80.271
+WH006,Delhi North Hub,New Delhi,Delhi,28.614,77.209
